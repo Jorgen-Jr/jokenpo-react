@@ -49,7 +49,7 @@ const Footer = ({ user }) => {
         <span>{text.Game.rules}</span>
       </div>
       
-      <a href="https://www.github.com/Jorgen-Jr" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Jorgen-Jr/jokenpo-react" target="_blank" rel="noopener noreferrer">
           <div className="github-link">
             <span> <FontAwesomeIcon icon={faGithub} /> GitHub</span>
           </div>
