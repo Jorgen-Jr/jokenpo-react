@@ -1,8 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pedra Papel Tesoura - ReactJS
 
-## Available Scripts
+Se trata de uma aplicação criada com ReactJS com Redux, baseada no jogo de pedra papel e tesoura.
 
-In the project directory, you can run:
+<!-- 
+## `Comandos de Desenvolvimento do ReactJS`
 
 ### `npm start`
 
@@ -65,4 +66,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
