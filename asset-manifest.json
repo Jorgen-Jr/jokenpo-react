@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Jorgen-Jr/jokenpo-react/static/css/main.b14e104a.chunk.css",
+    "main.js": "/Jorgen-Jr/jokenpo-react/static/js/main.d1d50e59.chunk.js",
+    "main.js.map": "/Jorgen-Jr/jokenpo-react/static/js/main.d1d50e59.chunk.js.map",
+    "runtime-main.js": "/Jorgen-Jr/jokenpo-react/static/js/runtime-main.eb34aa30.js",
+    "runtime-main.js.map": "/Jorgen-Jr/jokenpo-react/static/js/runtime-main.eb34aa30.js.map",
+    "static/js/2.7f7aa4dd.chunk.js": "/Jorgen-Jr/jokenpo-react/static/js/2.7f7aa4dd.chunk.js",
+    "static/js/2.7f7aa4dd.chunk.js.map": "/Jorgen-Jr/jokenpo-react/static/js/2.7f7aa4dd.chunk.js.map",
+    "index.html": "/Jorgen-Jr/jokenpo-react/index.html",
+    "precache-manifest.01a79e27a06c4186fbf610f8b5ea6737.js": "/Jorgen-Jr/jokenpo-react/precache-manifest.01a79e27a06c4186fbf610f8b5ea6737.js",
+    "service-worker.js": "/Jorgen-Jr/jokenpo-react/service-worker.js",
+    "static/css/main.b14e104a.chunk.css.map": "/Jorgen-Jr/jokenpo-react/static/css/main.b14e104a.chunk.css.map",
+    "static/js/2.7f7aa4dd.chunk.js.LICENSE": "/Jorgen-Jr/jokenpo-react/static/js/2.7f7aa4dd.chunk.js.LICENSE",
+    "static/media/icon-paper.svg": "/Jorgen-Jr/jokenpo-react/static/media/icon-paper.69a8c2e9.svg",
+    "static/media/icon-rock.svg": "/Jorgen-Jr/jokenpo-react/static/media/icon-rock.8ce1e109.svg",
+    "static/media/icon-scissors.svg": "/Jorgen-Jr/jokenpo-react/static/media/icon-scissors.bec2f9b3.svg",
+    "static/media/rulesenUS.svg": "/Jorgen-Jr/jokenpo-react/static/media/rulesenUS.5d74d25d.svg",
+    "static/media/rulesptBR.svg": "/Jorgen-Jr/jokenpo-react/static/media/rulesptBR.9d6da9cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb34aa30.js",
+    "static/js/2.7f7aa4dd.chunk.js",
+    "static/css/main.b14e104a.chunk.css",
+    "static/js/main.d1d50e59.chunk.js"
+  ]
+}
