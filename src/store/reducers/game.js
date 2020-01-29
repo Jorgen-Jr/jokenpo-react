@@ -17,7 +17,7 @@ const INITIAL_STATE =
 }
 
 export default function game(state = INITIAL_STATE, action) {
-    if(action.type === 'HANDLE_USER_PICK'){
+    if (action.type === 'HANDLE_USER_PICK') {
         return {
             ...state,
             user_pick: action.user_pick,

@@ -8,11 +8,14 @@ import ptBR from './../../assets/images/lang/ptBR.png';
 import enUS from './../../assets/images/lang/enUS.png';
 
 import * as UserActions from '../../store/actions/user';
+import * as GameActions from '../../store/actions/game';
 
 import './styles.css';
 
 function updateLanguage(user_lang, dispatch) {
   user_lang = user_lang === 'ptBR' ? 'enUS' : 'ptBR';
+
+  dispatch(GameActions.handleUserPick(null, 'main'));
 
   dispatch(UserActions.switchLang(user_lang));
 
@@ -21,9 +24,10 @@ function updateLanguage(user_lang, dispatch) {
   return true;
 }
 
-const Header = ({ user, dispatch }) => {
+const Header = ({ user, game, dispatch }) => {
 
-  const [cookie] = useCookies(['language', 'score']);
+  // const [cookie] = useCookies(['language', 'score']);
+  const [cookie] = useCookies(['score']);
 
   const { user_lang, user_score } = user;
 
@@ -55,4 +59,4 @@ const Header = ({ user, dispatch }) => {
   );
 }
 
-export default connect(state => ({ user: state.user }))(Header);
+export default connect(state => ({ user: state.user, game: state.game }))(Header);
