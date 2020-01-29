@@ -2,6 +2,8 @@
 
 Se trata de uma aplicação criada com ReactJS com Redux, baseada no jogo de pedra papel e tesoura.
 
+## Pré Visualização
+Abra [https://jorgen-jr.github.io/jokenpo-react/](https://jorgen-jr.github.io/jokenpo-react/) para visualizar no seu navegador.
 <!-- 
 ## `Comandos de Desenvolvimento do ReactJS`
 
