@@ -13,7 +13,7 @@
 
 ## Autores
 
-* **Jorge Nascimento Junior** - *Main Code* - [Jorgen-Jr](https://github.com/Jorgen-Jr)
+* **Jorge Nascimento Junior** - [Jorgen-Jr](https://github.com/Jorgen-Jr)
 
 <!--
 
