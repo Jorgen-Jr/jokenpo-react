@@ -1,71 +1,35 @@
 # Pedra Papel Tesoura - ReactJS
 
-Se trata de uma aplicação criada com ReactJS com Redux, baseada no jogo de pedra papel e tesoura.
+> O projeto se trata de um jogo de pedra papel e tesoura, criado usando ReactJS e Redux e cookies para salvar o placar do jogador localmente.
 
-## Pré Visualização
-Abra [https://jorgen-jr.github.io/jokenpo-react/](https://jorgen-jr.github.io/jokenpo-react/) para visualizar no seu navegador.
-<!-- 
-## `Comandos de Desenvolvimento do ReactJS`
+[![NPM Version][npm-image]][npm-url]
 
-### `npm start`
+## Pré-Visualização
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Clique aqui para acessar no seu navegador.](https://jorgen-jr.github.io/jokenpo-react/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[![](/public/preview.png)](https://jorgen-jr.github.io/jokenpo-react/)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Autores
 
-### `npm run build`
+* **Jorge Nascimento Junior** - *Main Code* - [Jorgen-Jr](https://github.com/Jorgen-Jr)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!--
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## License
 
-### `npm run eject`
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Acknowledgments
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+-->
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/badge/npm-6.13.4-success
+[npm-url]: https://npmjs.org/package/datadog-metrics
