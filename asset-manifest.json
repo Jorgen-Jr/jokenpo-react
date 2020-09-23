@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jokenpo-react/static/css/main.b14e104a.chunk.css",
-    "main.js": "/jokenpo-react/static/js/main.9d1032ac.chunk.js",
-    "main.js.map": "/jokenpo-react/static/js/main.9d1032ac.chunk.js.map",
-    "runtime-main.js": "/jokenpo-react/static/js/runtime-main.ae7862d1.js",
-    "runtime-main.js.map": "/jokenpo-react/static/js/runtime-main.ae7862d1.js.map",
-    "static/js/2.7f7aa4dd.chunk.js": "/jokenpo-react/static/js/2.7f7aa4dd.chunk.js",
-    "static/js/2.7f7aa4dd.chunk.js.map": "/jokenpo-react/static/js/2.7f7aa4dd.chunk.js.map",
+    "main.css": "/jokenpo-react/static/css/main.6f7f0cb9.chunk.css",
+    "main.js": "/jokenpo-react/static/js/main.0704d848.chunk.js",
+    "main.js.map": "/jokenpo-react/static/js/main.0704d848.chunk.js.map",
+    "runtime-main.js": "/jokenpo-react/static/js/runtime-main.fbcbbfc7.js",
+    "runtime-main.js.map": "/jokenpo-react/static/js/runtime-main.fbcbbfc7.js.map",
+    "static/js/2.a12cffd4.chunk.js": "/jokenpo-react/static/js/2.a12cffd4.chunk.js",
+    "static/js/2.a12cffd4.chunk.js.map": "/jokenpo-react/static/js/2.a12cffd4.chunk.js.map",
     "index.html": "/jokenpo-react/index.html",
-    "precache-manifest.18abb31e45309a188d50b210dc7127c8.js": "/jokenpo-react/precache-manifest.18abb31e45309a188d50b210dc7127c8.js",
+    "precache-manifest.704c5de8d23a8acbbf8878294d0f746f.js": "/jokenpo-react/precache-manifest.704c5de8d23a8acbbf8878294d0f746f.js",
     "service-worker.js": "/jokenpo-react/service-worker.js",
-    "static/css/main.b14e104a.chunk.css.map": "/jokenpo-react/static/css/main.b14e104a.chunk.css.map",
-    "static/js/2.7f7aa4dd.chunk.js.LICENSE": "/jokenpo-react/static/js/2.7f7aa4dd.chunk.js.LICENSE",
+    "static/css/main.6f7f0cb9.chunk.css.map": "/jokenpo-react/static/css/main.6f7f0cb9.chunk.css.map",
+    "static/js/2.a12cffd4.chunk.js.LICENSE.txt": "/jokenpo-react/static/js/2.a12cffd4.chunk.js.LICENSE.txt",
     "static/media/icon-paper.svg": "/jokenpo-react/static/media/icon-paper.69a8c2e9.svg",
     "static/media/icon-rock.svg": "/jokenpo-react/static/media/icon-rock.8ce1e109.svg",
     "static/media/icon-scissors.svg": "/jokenpo-react/static/media/icon-scissors.bec2f9b3.svg",
@@ -19,9 +19,9 @@
     "static/media/rulesptBR.svg": "/jokenpo-react/static/media/rulesptBR.9d6da9cb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae7862d1.js",
-    "static/js/2.7f7aa4dd.chunk.js",
-    "static/css/main.b14e104a.chunk.css",
-    "static/js/main.9d1032ac.chunk.js"
+    "static/js/runtime-main.fbcbbfc7.js",
+    "static/js/2.a12cffd4.chunk.js",
+    "static/css/main.6f7f0cb9.chunk.css",
+    "static/js/main.0704d848.chunk.js"
   ]
 }

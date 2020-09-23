@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "094b14b23e93e9ef070bb6740536e69d",
+    "revision": "c6ada20abb1f9a1aaaeddf86ffbe4af9",
     "url": "/jokenpo-react/index.html"
   },
   {
-    "revision": "023eda6593bd5c1ffd64",
-    "url": "/jokenpo-react/static/css/main.b14e104a.chunk.css"
+    "revision": "8e029b4a0200758f4836",
+    "url": "/jokenpo-react/static/css/main.6f7f0cb9.chunk.css"
   },
   {
-    "revision": "fda69559bef8dedd4a27",
-    "url": "/jokenpo-react/static/js/2.7f7aa4dd.chunk.js"
+    "revision": "9b39ad79809722412fac",
+    "url": "/jokenpo-react/static/js/2.a12cffd4.chunk.js"
   },
   {
-    "revision": "0d36c33d9cc00b2be2cdea304696c034",
-    "url": "/jokenpo-react/static/js/2.7f7aa4dd.chunk.js.LICENSE"
+    "revision": "8e8a87852e476777f7b36c421326ae8d",
+    "url": "/jokenpo-react/static/js/2.a12cffd4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "023eda6593bd5c1ffd64",
-    "url": "/jokenpo-react/static/js/main.9d1032ac.chunk.js"
+    "revision": "8e029b4a0200758f4836",
+    "url": "/jokenpo-react/static/js/main.0704d848.chunk.js"
   },
   {
-    "revision": "d57e7835f598b61e2f84",
-    "url": "/jokenpo-react/static/js/runtime-main.ae7862d1.js"
+    "revision": "0ed8565a43e48dc092d7",
+    "url": "/jokenpo-react/static/js/runtime-main.fbcbbfc7.js"
   },
   {
     "revision": "69a8c2e96b659b35a3760c79123be610",
