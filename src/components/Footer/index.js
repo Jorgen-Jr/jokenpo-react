@@ -17,11 +17,11 @@ Modal.setAppElement('#root');
 
 const Footer = ({ user }) => {
 
-  const [modalIsOpen,setIsOpen] = React.useState(false);
+  const [modalIsOpen, setIsOpen] = React.useState(false);
 
   const { user_lang } = user;
 
-  var language =  user_lang;
+  var language = user_lang;
 
   const text = user.translation[language];
 
@@ -40,7 +40,7 @@ const Footer = ({ user }) => {
     // references are now sync'd and can be accessed.
   }
 
-  function closeModal(){
+  function closeModal() {
     setIsOpen(false);
   }
   return (
@@ -48,29 +48,30 @@ const Footer = ({ user }) => {
       <div className="rules-container" onClick={openModal}>
         <span>{text.Game.rules}</span>
       </div>
-      
+
       <a href="https://github.com/Jorgen-Jr/jokenpo-react" target="_blank" rel="noopener noreferrer">
-          <div className="github-link">
-            <span> <FontAwesomeIcon icon={faGithub} /> GitHub</span>
-          </div>
+        <div className="github-link">
+          <span> <FontAwesomeIcon icon={faGithub} /> </span> <span>Made with <span role="img" aria-label="heart emoji" style={{ color: "red" }}>❤️</span> by Jorge</span>
+        </div>
       </a>
-        <Modal
-                  closeTimeoutMS={200}
-                  isOpen={modalIsOpen}
-                  onAfterOpen={afterOpenModal}
-                  onRequestClose={closeModal}
-                  contentLabel={text.Rules.title}           
-                  className="Modal"
-                  overlayClassName="Overlay"
-                >
+
+      <Modal
+        closeTimeoutMS={200}
+        isOpen={modalIsOpen}
+        onAfterOpen={afterOpenModal}
+        onRequestClose={closeModal}
+        contentLabel={text.Rules.title}
+        className="Modal"
+        overlayClassName="Overlay"
+      >
         <div className="modalHeader">
-            <h1>{text.Rules.title} <div className="rules-close" onClick={closeModal}><span><FontAwesomeIcon icon={faTimes} /></span></div> </h1>
-            
+          <h1>{text.Rules.title} <div className="rules-close" onClick={closeModal}><span><FontAwesomeIcon icon={faTimes} /></span></div> </h1>
+
         </div>
         <div className="modalBody">
-            <img src={rule} alt={text.Rules.imgAlt} />
+          <img src={rule} alt={text.Rules.imgAlt} />
         </div>
-        </Modal>
+      </Modal>
     </>
   );
 }

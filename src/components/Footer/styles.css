@@ -1,5 +1,5 @@
-.rules-container{
-    display:inline-block;
+.rules-container {
+    display: inline-block;
     text-transform: uppercase;
     font-weight: 700;
     position: fixed;
@@ -13,11 +13,12 @@
     transition: 0.4s;
 }
 
-.rules-container:hover{
+.rules-container:hover {
     background-color: #EEE;
     color: #222;
 }
-.github-link{
+
+.github-link {
     display: inline-block;
     position: fixed;
     bottom: 0;
@@ -29,21 +30,25 @@
     padding: 0 20px;
     transition: 0.4s;
 }
-.github-link:hover{
+
+.github-link:hover {
     cursor: pointer;
-    background-color: RGBA(0,0,0,0.4);
+    background-color: RGBA(0, 0, 0, 0.4);
     color: #EEE;
 }
-.modalBody{
+
+.modalBody {
     margin: auto;
     width: 304px;
 }
-.rules-close{
+
+.rules-close {
     cursor: pointer;
     float: right;
     color: hsl(217, 16%, 45%);
 }
- .Modal {
+
+.Modal {
     text-transform: uppercase;
     font-weight: 700;
     max-width: 400px;
@@ -59,52 +64,56 @@
     border: 1px solid #DDD;
     border-radius: 7px;
     padding: 0 10px;
-  }
+}
 
-  .Overlay {
+.Overlay {
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: RGBA(0,0,0,0.5);
-  }
+    background-color: RGBA(0, 0, 0, 0.5);
+}
 
 .ReactModal__Overlay {
     opacity: 0;
     transition: opacity 200ms ease-in-out;
 }
 
-.ReactModal__Overlay--after-open{
+.ReactModal__Overlay--after-open {
     opacity: 1;
 }
 
-.ReactModal__Overlay--before-close{
+.ReactModal__Overlay--before-close {
     opacity: 0;
 }
 
 @media only screen and (max-width: 620px) {
-    .rules-container{
+    .rules-container {
         font-size: 14px;
         text-align: center;
         left: 0;
         bottom: 5px;
     }
-    .Modal{
+
+    .Modal {
         padding: 0;
         border-radius: 0;
         width: 100%;
         max-height: 100%;
     }
-    .modalBody{
+
+    .modalBody {
         padding: 20px 0;
         text-align: center;
     }
-    .modalHeader{
+
+    .modalHeader {
         text-align: center;
         margin: 10px;
     }
-    .rules-close{
+
+    .rules-close {
         position: fixed;
         bottom: 20px;
         text-align: center;
